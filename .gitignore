@@ -1,3 +1,4 @@
 .pytest_cache
 searching/__pycache__
+sorting/__pycache__
 tests/__pycache__
