@@ -1,0 +1,3 @@
+.pytest_cache
+searching/__pycache__
+tests/__pycache__
