@@ -12,7 +12,7 @@ def binary_search(sorted_list, item):
     item_index = 0
     
     while left <= right:
-        print(mid)
+        
         if item == sorted_list[mid]:
             item_index = mid
             return item_index
